@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\bin\Debug\EDDemo.exe.config
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\bin\Debug\EDDemo.exe
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\bin\Debug\EDDemo.pdb
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\bin\Debug\Graphviz.dll
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDProy.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDemo.Estructuras_No_Lineales.frmArboles.resources
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDemo.frmInicio.resources
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDemo.frmPilas.resources
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDemo.Properties.Resources.resources
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDProy.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDProy.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDProy.csproj.Up2Date
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDemo.exe
+C:\Users\HP\source\repos\EDDProy-master\EDDProy\obj\Debug\EDDemo.pdb
